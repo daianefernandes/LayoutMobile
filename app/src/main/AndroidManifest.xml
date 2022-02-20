@@ -13,9 +13,6 @@
             android:name=".MainActivityFirstScreen"
             android:exported="true" />
         <activity
-            android:name=".MainActivityTelaPrincipal"
-            android:exported="true" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
