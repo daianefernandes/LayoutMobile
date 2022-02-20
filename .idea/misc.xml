@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2760416666666667" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2760416666666667" />
+        <entry key="app/src/main/res/layout/activity_first_screen.xml" value="0.15670289855072464" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_main_first_screen.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_main_tela_principal.xml" value="0.27962159322311575" />
